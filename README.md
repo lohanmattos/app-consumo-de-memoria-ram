@@ -1,6 +1,4 @@
-## Aplicativo: Visualizando consumo de mémoria RAM.
-
-<p>Criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM."</p></br></br>
+## Visualizando consumo de mémoria RAM.
 
 * Exemplo:
 
